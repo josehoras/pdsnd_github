@@ -1,4 +1,3 @@
-### Date created
 This file was created on 04-06-2020
 
 ### Project Title
