@@ -11,5 +11,6 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Apart from several StackOverflow questions linked in the comments in the Jupiter Notebook, the following blogs were of great help:
+- https://sebastiansauer.github.io/ordering-bars/
+- https://www.guru99.com/r-data-frames.html
